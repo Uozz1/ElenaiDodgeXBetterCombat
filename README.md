@@ -9,6 +9,4 @@ The goal of this mod is to provide enhanced mechanics when using **Better Combat
 - **Special Attack:** Pressing attack and dodge in the same frame triggers a special attack, allowing you to attack while dodging.
 - **Customizable starting feathers:** Configure the number of feathers players spawn with.
 
-## Configuration
-
-You can find **`edxbt-common.toml`** in your Minecraft instance's **`config`** folder.
+This was my first mod, so it’s a bit rough around the edges; the "perfect attack" was originally a bug, but I turned it into a feature.
