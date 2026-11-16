@@ -1,0 +1,22 @@
+{
+  "special_attack": {
+    "sounds": [
+      {
+        "name": "edxbt:1",
+        "stream": false
+      },
+      {
+        "name": "edxbt:2",
+        "stream": false
+      },
+      {
+        "name": "edxbt:4",
+        "stream": false
+      },
+      {
+        "name": "edxbt:5",
+        "stream": false
+      }
+    ]
+  }
+}

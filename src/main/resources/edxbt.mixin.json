@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "net.uozzi.edxbt.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "edxbt.mixin-refmap.json",
+  "mixins": [
+    "DodgeMixin",
+    "HandsBusyMixin",
+    "LocalPlayerAccessor"
+
+  ],
+  "minVersion": "0.8"
+}
